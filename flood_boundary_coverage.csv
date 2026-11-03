@@ -1,0 +1,456 @@
+Start Date,End Date,State,Districts,Main Cause,state_key,district_key,Boundary_Match
+2023-06-01,01-06-2023 00:00,Arunachal Pradesh,Tawang,heavy rains & floods,arunachal pradesh,tawang,True
+2023-06-02,02-06-2023 00:00,Arunachal Pradesh,Upper Lower Subansiri,heavy rains & floods,arunachal pradesh,upper lower subansiri,False
+2023-06-12,12-06-2023 00:00,Arunachal Pradesh,Lohit,heavy rains & floods,arunachal pradesh,lohit,True
+2023-06-12,12-06-2023 00:00,Arunachal Pradesh,West Kameng,heavy rains & floods,arunachal pradesh,west kameng,True
+2023-06-12,12-06-2023 00:00,Arunachal Pradesh,West Kameng,heavy rains & floods,arunachal pradesh,west kameng,True
+2023-06-14,15-06-2023 00:00,Arunachal Pradesh,Upper Siang,"heavy rains, floods & landslides",arunachal pradesh,upper siang,True
+2023-06-14,15-06-2023 00:00,Arunachal Pradesh,West Kameng,"heavy rains, floods & landslides",arunachal pradesh,west kameng,True
+2023-06-14,15-06-2023 00:00,Arunachal Pradesh,West Kameng,"heavy rains, floods & landslides",arunachal pradesh,west kameng,True
+2023-06-19,19-06-2023 00:00,Arunachal Pradesh,East Siang,"heavy rains, floods & landslides",arunachal pradesh,east siang,True
+2023-06-19,19-06-2023 00:00,Arunachal Pradesh,Papum Pare,"heavy rains, floods & landslides",arunachal pradesh,papum pare,True
+2023-06-19,19-06-2023 00:00,Arunachal Pradesh,Upper Siang,"heavy rains, floods & landslides",arunachal pradesh,upper siang,True
+2023-06-23,23-06-2023 00:00,Arunachal Pradesh,Upper Siang,"heavy rains, floods & landslides",arunachal pradesh,upper siang,True
+2023-06-21,21-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-21,21-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-21,21-06-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-06-21,21-06-2023 00:00,Assam,Bongaigaon,heavy rains & floods,assam,bongaigaon,True
+2023-06-21,21-06-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-06-21,21-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-21,21-06-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-06-21,21-06-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-06-21,21-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-21,21-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-21,21-06-2023 00:00,Assam,Hojai,heavy rains & floods,assam,hojai,False
+2023-06-21,21-06-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-06-21,21-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-21,21-06-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-06-21,21-06-2023 00:00,Assam,Kokrajhar,heavy rains & floods,assam,kokrajhar,True
+2023-06-21,21-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-21,21-06-2023 00:00,Assam,Majuli,heavy rains & floods,assam,majuli,False
+2023-06-21,21-06-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-06-21,21-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-21,21-06-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-06-22,22-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-22,22-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-22,22-06-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-06-22,22-06-2023 00:00,Assam,Bongaigaon,heavy rains & floods,assam,bongaigaon,True
+2023-06-22,22-06-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-06-22,22-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-22,22-06-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-06-22,22-06-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-06-22,22-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-22,22-06-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-06-22,22-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-22,22-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-22,22-06-2023 00:00,Assam,Kokrajhar,heavy rains & floods,assam,kokrajhar,True
+2023-06-22,22-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-22,22-06-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-06-22,22-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-22,22-06-2023 00:00,Assam,Udalguri,heavy rains & floods,assam,udalguri,False
+2023-06-23,23-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-23,23-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-23,23-06-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-06-23,23-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-23,23-06-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-06-23,23-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-23,23-06-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-06-23,23-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-23,23-06-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-06-23,23-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-23,23-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-23,23-06-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-06-23,23-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-24,24-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-24,24-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-24,24-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-24,24-06-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-06-24,24-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-24,24-06-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-06-24,24-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-24,24-06-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-06-24,24-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-24,24-06-2023 00:00,Assam,Kokrajhar,heavy rains & floods,assam,kokrajhar,True
+2023-06-24,24-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-24,24-06-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-06-24,24-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-25,25-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-25,25-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-25,25-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-25,25-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-25,25-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-25,25-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-25,25-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-25,25-06-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-06-25,25-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-26,26-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-26,26-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-26,26-06-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-06-26,26-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-26,26-06-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-06-26,26-06-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-06-26,26-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-26,26-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-26,26-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-27,27-06-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-06-27,27-06-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-06-27,27-06-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-06-27,27-06-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-06-27,27-06-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-06-27,27-06-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-06-27,27-06-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-06-27,27-06-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-06-27,27-06-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-06-27,27-06-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-06-27,27-06-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-07-05,05-07-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-07-05,05-07-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-07-05,05-07-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-07-05,05-07-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-07-05,05-07-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-07-05,05-07-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-07-16,16-07-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-07-16,16-07-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-07-16,16-07-2023 00:00,Assam,Bongaigaon,heavy rains & floods,assam,bongaigaon,True
+2023-07-16,16-07-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-07-16,16-07-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-07-16,16-07-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-07-16,16-07-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-07-16,16-07-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-07-16,16-07-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-07-16,16-07-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-07-16,16-07-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-07-16,16-07-2023 00:00,Assam,Majuli,heavy rains & floods,assam,majuli,False
+2023-07-16,16-07-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-07-16,16-07-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-07-16,16-07-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-07-16,16-07-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-07-16,16-07-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-07-18,18-07-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-07-18,18-07-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-07-18,18-07-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-07-18,18-07-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-07-18,18-07-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-07-18,18-07-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-07-18,18-07-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-07-18,18-07-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-07-18,18-07-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-07-18,18-07-2023 00:00,Assam,Majuli,heavy rains & floods,assam,majuli,False
+2023-07-18,18-07-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-07-18,18-07-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-07-18,18-07-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-07-18,18-07-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-07,07-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-07,07-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-07,07-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-07,07-08-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-08-07,07-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-10,10-08-2023 00:00,Assam,Charaideo,heavy rains & floods,assam,charaideo,False
+2023-08-10,10-08-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-08-10,10-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-10,10-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-10,10-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-10,10-08-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-08-10,10-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-12,12-08-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-08-12,12-08-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-08-12,12-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-12,12-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-12,12-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-12,12-08-2023 00:00,Assam,Kokrajhar,heavy rains & floods,assam,kokrajhar,True
+2023-08-12,12-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-12,12-08-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-08-13,13-08-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-08-13,13-08-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-08-13,13-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-13,13-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-13,13-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-13,13-08-2023 00:00,Assam,Kokrajhar,heavy rains & floods,assam,kokrajhar,True
+2023-08-13,13-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-13,13-08-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-08-27,27-08-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-08-27,27-08-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-08-27,27-08-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-08-27,27-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-27,27-08-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-08-27,27-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-27,27-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-27,27-08-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-08-27,27-08-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-08-27,27-08-2023 00:00,Assam,Majuli,heavy rains & floods,assam,majuli,False
+2023-08-27,27-08-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-08-27,27-08-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-08-27,27-08-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-08-27,27-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-27,27-08-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-08-27,27-08-2023 00:00,Assam,Baksa,heavy rains & floods,assam,baksa,False
+2023-08-27,27-08-2023 00:00,Assam,Udalguri,heavy rains & floods,assam,udalguri,False
+2023-08-30,30-08-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-08-30,30-08-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-08-30,30-08-2023 00:00,Assam,Bongaigaon,heavy rains & floods,assam,bongaigaon,True
+2023-08-30,30-08-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-08-30,30-08-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-08-30,30-08-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-08-30,30-08-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-08-30,30-08-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-08-30,30-08-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-08-30,30-08-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-08-30,30-08-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-08-30,30-08-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-08-30,30-08-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-08-30,30-08-2023 00:00,Assam,Majuli,heavy rains & floods,assam,majuli,False
+2023-08-30,30-08-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-08-30,30-08-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-08-30,30-08-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-08-30,30-08-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-08-30,30-08-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-09-01,01-09-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-09-01,01-09-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-09-01,01-09-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-09-01,01-09-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-09-01,01-09-2023 00:00,Assam,Dhemaji,heavy rains & floods,assam,dhemaji,True
+2023-09-01,01-09-2023 00:00,Assam,Dhubri,heavy rains & floods,assam,dhubri,False
+2023-09-01,01-09-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-09-01,01-09-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-09-01,01-09-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-09-01,01-09-2023 00:00,Assam,Jorhat,heavy rains & floods,assam,jorhat,True
+2023-09-01,01-09-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-09-01,01-09-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-09-01,01-09-2023 00:00,Assam,Lakhimpur,heavy rains & floods,assam,lakhimpur,True
+2023-09-01,01-09-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-09-01,01-09-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-09-01,01-09-2023 00:00,Assam,Nalbari,heavy rains & floods,assam,nalbari,True
+2023-09-01,01-09-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-09-01,01-09-2023 00:00,Assam,Sonitpur,heavy rains & floods,assam,sonitpur,True
+2023-09-02,02-09-2023 00:00,Assam,Barpeta,heavy rains & floods,assam,barpeta,True
+2023-09-02,02-09-2023 00:00,Assam,Biswanath,heavy rains & floods,assam,biswanath,False
+2023-09-02,02-09-2023 00:00,Assam,Chirang,heavy rains & floods,assam,chirang,False
+2023-09-02,02-09-2023 00:00,Assam,Darrang,heavy rains & floods,assam,darrang,True
+2023-09-02,02-09-2023 00:00,Assam,Dibrugarh,heavy rains & floods,assam,dibrugarh,True
+2023-09-02,02-09-2023 00:00,Assam,Goalpara,heavy rains & floods,assam,goalpara,True
+2023-09-02,02-09-2023 00:00,Assam,Golaghat,heavy rains & floods,assam,golaghat,True
+2023-09-02,02-09-2023 00:00,Assam,Kamrup,heavy rains & floods,assam,kamrup,True
+2023-09-02,02-09-2023 00:00,Assam,Kamrup Metro,heavy rains & floods,assam,kamrup metro,False
+2023-09-02,02-09-2023 00:00,Assam,Marigaon,heavy rains & floods,assam,marigaon,True
+2023-09-02,02-09-2023 00:00,Assam,Nagaon,heavy rains & floods,assam,nagaon,True
+2023-09-02,02-09-2023 00:00,Assam,Sivasagar,heavy rains & floods,assam,sivasagar,False
+2023-07-19,19-07-2023 00:00,Gujarat,Gir Somnath,heavy rains & floods,gujarat,gir somnath,False
+2023-07-19,19-07-2023 00:00,Gujarat,Junagadh,heavy rains & floods,gujarat,junagadh,True
+2023-07-19,19-07-2023 00:00,Gujarat,Rajkot,heavy rains & floods,gujarat,rajkot,True
+2023-07-19,19-07-2023 00:00,Gujarat,Surat,heavy rains & floods,gujarat,surat,True
+2023-06-25,25-06-2023 00:00,Haryana ,Panchkula,heavy rains & floods,haryana,panchkula,True
+2023-07-08,11-07-2023 00:00,Haryana ,Ambala,heavy rains & floods,haryana,ambala,True
+2023-07-08,11-07-2023 00:00,Haryana ,Bhiwani,heavy rains & floods,haryana,bhiwani,True
+2023-07-08,11-07-2023 00:00,Haryana ,Faridabad,heavy rains & floods,haryana,faridabad,True
+2023-07-08,11-07-2023 00:00,Haryana ,Gurugram,heavy rains & floods,haryana,gurugram,False
+2023-07-08,11-07-2023 00:00,Haryana ,Karnal,heavy rains & floods,haryana,karnal,True
+2023-07-08,11-07-2023 00:00,Haryana ,Kurukshetra,heavy rains & floods,haryana,kurukshetra,True
+2023-07-08,11-07-2023 00:00,Haryana ,Panchkula,heavy rains & floods,haryana,panchkula,True
+2023-07-08,11-07-2023 00:00,Haryana ,Panipat,heavy rains & floods,haryana,panipat,True
+2023-07-08,11-07-2023 00:00,Haryana ,Yamunanagar,heavy rains & floods,haryana,yamunanagar,False
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Hamirpur,heavy rains & floods,himachal pradesh,hamirpur,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Kullu,heavy rains & floods,himachal pradesh,kullu,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Lahul And Spiti,heavy rains & floods,himachal pradesh,lahul and spiti,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Mandi,heavy rains & floods,himachal pradesh,mandi,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Shimla,heavy rains & floods,himachal pradesh,shimla,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Sirmaur,heavy rains & floods,himachal pradesh,sirmaur,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Solan,heavy rains & floods,himachal pradesh,solan,True
+2023-06-24,25-06-2023 00:00,Himachal Pradesh,Parts of Himachal Pradesh,heavy rains & floods,himachal pradesh,parts of himachal pradesh,False
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,& Parts of Himachal Pradesh,"heavy rains,  floods & landslides",himachal pradesh,parts of himachal pradesh,False
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Chamba,"heavy rains,  floods & landslides",himachal pradesh,chamba,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Kullu,"heavy rains,  floods & landslides",himachal pradesh,kullu,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Lahul And Spiti,"heavy rains,  floods & landslides",himachal pradesh,lahul and spiti,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Mandi,"heavy rains,  floods & landslides",himachal pradesh,mandi,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Shimla,"heavy rains,  floods & landslides",himachal pradesh,shimla,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Solan,"heavy rains,  floods & landslides",himachal pradesh,solan,True
+2023-07-09,11-07-2023 00:00,Himachal Pradesh,Una,"heavy rains,  floods & landslides",himachal pradesh,una,True
+2023-07-22,22-07-2023 00:00,Himachal Pradesh,Shimla,heavy rains & flash  floods,himachal pradesh,shimla,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Hamirpur,"heavy rains, cloud burst,  floods",himachal pradesh,hamirpur,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Kangra,"heavy rains, cloud burst,  floods",himachal pradesh,kangra,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Mandi,"heavy rains, cloud burst,  floods",himachal pradesh,mandi,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Shimla,"heavy rains, cloud burst,  floods",himachal pradesh,shimla,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Sirmaur,"heavy rains, cloud burst,  floods",himachal pradesh,sirmaur,True
+2023-08-13,13-08-2023 00:00,Himachal Pradesh,Solan,"heavy rains, cloud burst,  floods",himachal pradesh,solan,True
+2023-05-21,21-05-2023 00:00,Karnataka,Bengaluru Rural,heavy rains & floods,karnataka,bengaluru rural,False
+2023-07-23,23-07-2023 00:00,Karnataka,Dakshina Kannada,heavy rains & floods,karnataka,dakshina kannada,False
+2023-07-23,23-07-2023 00:00,Karnataka,Udupi,heavy rains & floods,karnataka,udupi,True
+2023-07-25,25-07-2023 00:00,Karnataka,Dakshina Kannada,heavy rains & floods,karnataka,dakshina kannada,False
+2023-07-25,25-07-2023 00:00,Karnataka,Vijayapura,heavy rains & floods,karnataka,vijayapura,False
+2023-07-25,25-07-2023 00:00,Karnataka,Udupi,heavy rains & floods,karnataka,udupi,True
+2023-07-03,07-07-2023 00:00,Kerala,Alappuzha,heavy rains & floods,kerala,alappuzha,True
+2023-07-03,07-07-2023 00:00,Kerala,Kannur,heavy rains & floods,kerala,kannur,True
+2023-07-03,07-07-2023 00:00,Kerala,Kottayam,heavy rains & floods,kerala,kottayam,True
+2023-07-03,07-07-2023 00:00,Kerala,Kozhikode,heavy rains & floods,kerala,kozhikode,True
+2023-07-03,07-07-2023 00:00,Kerala,Pathanamthitta,heavy rains & floods,kerala,pathanamthitta,False
+2023-07-10,10-07-2023 00:00,Kerala,Malappuram,heavy rains & floods (nilambur river),kerala,malappuram,True
+2023-07-23,23-07-2023 00:00,Kerala,Thrissur,heavy rains & floods,kerala,thrissur,True
+2023-07-23,23-07-2023 00:00,Kerala,Wayanad,heavy rains & floods,kerala,wayanad,True
+2023-08-21,21-08-2023 00:00,Madhya Pradesh,Ashoknagar,heavy rains & floods,madhya pradesh,ashoknagar,True
+2023-08-21,21-08-2023 00:00,Madhya Pradesh,Bhopal,heavy rains & floods,madhya pradesh,bhopal,True
+2023-07-14,14-07-2023 00:00,Madhya Pradesh,Barwani,heavy rains & floods,madhya pradesh,barwani,True
+2023-07-14,14-07-2023 00:00,Madhya Pradesh,Dhar,heavy rains & floods,madhya pradesh,dhar,True
+2023-07-14,14-07-2023 00:00,Madhya Pradesh,Seoni,heavy rains & floods,madhya pradesh,seoni,True
+2023-07-14,14-07-2023 00:00,Madhya Pradesh,Shahdol,heavy rains & floods,madhya pradesh,shahdol,True
+2023-07-14,14-07-2023 00:00,Madhya Pradesh,Ujjain,heavy rains & floods,madhya pradesh,ujjain,True
+2023-04-09,09-04-2023 00:00,Maharashtra,Nashik,flash floods triggered by torrential rain,maharashtra,nashik,True
+2023-06-28,28-06-2023 00:00,Maharashtra,Mumbai,heavy rains & floods,maharashtra,mumbai,False
+2023-06-28,28-06-2023 00:00,Maharashtra,Mumbai Suburban,heavy rains & floods,maharashtra,mumbai suburban,False
+2023-06-28,28-06-2023 00:00,Maharashtra,Palghar,heavy rains & floods,maharashtra,palghar,False
+2023-06-28,28-06-2023 00:00,Maharashtra,Thane,heavy rains & floods,maharashtra,thane,True
+2023-07-12,12-07-2023 00:00,Maharashtra,Akola,heavy rains & floods,maharashtra,akola,True
+2023-07-18,18-07-2023 00:00,Maharashtra,Chandrapur,heavy rains & floods,maharashtra,chandrapur,True
+2023-07-18,18-07-2023 00:00,Maharashtra,Gadchiroli,heavy rains & floods,maharashtra,gadchiroli,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Akola,heavy rains & floods,maharashtra,akola,True
+2023-07-19,19-07-2023 00:00,Maharashtra,,heavy rains & floods,maharashtra,,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Amravati,heavy rains & floods,maharashtra,amravati,True
+2023-07-19,19-07-2023 00:00,Maharashtra,Buldhana,heavy rains & floods,maharashtra,buldhana,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Chandrapur,heavy rains & floods,maharashtra,chandrapur,True
+2023-07-19,19-07-2023 00:00,Maharashtra,Gadchiroli,heavy rains & floods,maharashtra,gadchiroli,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Mumbai,heavy rains & floods,maharashtra,mumbai,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Palghar,heavy rains & floods,maharashtra,palghar,False
+2023-07-19,19-07-2023 00:00,Maharashtra,Ratnagiri,heavy rains & floods,maharashtra,ratnagiri,True
+2023-07-19,19-07-2023 00:00,Maharashtra,Thane,heavy rains & floods,maharashtra,thane,True
+2023-07-19,19-07-2023 00:00,Maharashtra,Washim,heavy rains & floods,maharashtra,washim,True
+2023-07-20,20-07-2023 00:00,Maharashtra,Mumbai,heavy rains & floods,maharashtra,mumbai,False
+2023-07-20,20-07-2023 00:00,Maharashtra,Mumbai Suburban,heavy rains & floods,maharashtra,mumbai suburban,False
+2023-07-20,20-07-2023 00:00,Maharashtra,Thane,heavy rains & floods,maharashtra,thane,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Akola,heavy rains & floods,maharashtra,akola,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Amravati,heavy rains & floods,maharashtra,amravati,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Buldhana,heavy rains & floods,maharashtra,buldhana,False
+2023-07-21,22-07-2023 00:00,Maharashtra,Gadchiroli,heavy rains & floods,maharashtra,gadchiroli,False
+2023-07-21,22-07-2023 00:00,Maharashtra,Gondia,heavy rains & floods,maharashtra,gondia,False
+2023-07-21,22-07-2023 00:00,Maharashtra,Thane,heavy rains & floods,maharashtra,thane,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Wardha,heavy rains & floods,maharashtra,wardha,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Washim,heavy rains & floods,maharashtra,washim,True
+2023-07-21,22-07-2023 00:00,Maharashtra,Yavatmal,heavy rains & floods,maharashtra,yavatmal,True
+2023-07-23,23-07-2023 00:00,Maharashtra,Akola,heavy rains & floods,maharashtra,akola,True
+2023-07-23,23-07-2023 00:00,Maharashtra,Amravati,heavy rains & floods,maharashtra,amravati,True
+2023-07-23,23-07-2023 00:00,Maharashtra,Buldhana,heavy rains & floods,maharashtra,buldhana,False
+2023-07-23,23-07-2023 00:00,Maharashtra,Chandrapur,heavy rains & floods,maharashtra,chandrapur,True
+2023-07-26,26-07-2023 00:00,Maharashtra,Ratnagiri,heavy rains & floods,maharashtra,ratnagiri,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Amravati,heavy rains & floods,maharashtra,amravati,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Buldhana,heavy rains & floods,maharashtra,buldhana,False
+2023-07-27,27-07-2023 00:00,Maharashtra,Kolhapur,heavy rains & floods,maharashtra,kolhapur,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Nagpur,heavy rains & floods,maharashtra,nagpur,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Nanded,heavy rains & floods,maharashtra,nanded,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Sindhudurg,heavy rains & floods,maharashtra,sindhudurg,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Thane,heavy rains & floods,maharashtra,thane,True
+2023-07-27,27-07-2023 00:00,Maharashtra,Wardha,heavy rains & floods,maharashtra,wardha,True
+2023-06-10,19-06-2023 00:00,Meghalaya,East East Jaintia Hills,"heavy rains, floods & landslide",meghalaya,east east jaintia hills,False
+2023-06-10,19-06-2023 00:00,Meghalaya,East Khasi Hills,"heavy rains, floods & landslide",meghalaya,east khasi hills,True
+2023-06-10,19-06-2023 00:00,Meghalaya,North Garo Hills,"heavy rains, floods & landslide",meghalaya,north garo hills,False
+2023-06-10,19-06-2023 00:00,Meghalaya,Ri Bhoi,"heavy rains, floods & landslide",meghalaya,ri bhoi,True
+2023-06-10,19-06-2023 00:00,Meghalaya,South West Garo Hills,"heavy rains, floods & landslide",meghalaya,south west garo hills,False
+2023-06-10,19-06-2023 00:00,Meghalaya,West Garo Hills,"heavy rains, floods & landslide",meghalaya,west garo hills,True
+2023-06-10,19-06-2023 00:00,Meghalaya,West Khasi Hills,"heavy rains, floods & landslide",meghalaya,west khasi hills,True
+2023-06-11,11-06-2023 00:00,Meghalaya,Ri Bhoi,heavy rains & floods,meghalaya,ri bhoi,True
+2023-06-16,16-06-2023 00:00,Meghalaya,Ri Bhoi,heavy rains & floods,meghalaya,ri bhoi,True
+2023-06-17,17-06-2023 00:00,Meghalaya,West Khasi Hills,heavy rains & floods,meghalaya,west khasi hills,True
+2023-08-20,21-08-2023 00:00,Odisha,Baleshwar,heavy rains & floods,odisha,baleshwar,False
+2023-08-20,21-08-2023 00:00,Odisha,Kendujhar,heavy rains & floods,odisha,kendujhar,False
+2023-08-20,21-08-2023 00:00,Odisha,Mayurbhanj,heavy rains & floods,odisha,mayurbhanj,False
+2023-07-05,11-07-2023 00:00,Punjab,Gurdaspur,heavy rains & floods,punjab,gurdaspur,True
+2023-07-05,11-07-2023 00:00,Punjab,Hoshiarpur,heavy rains & floods,punjab,hoshiarpur,True
+2023-07-05,11-07-2023 00:00,Punjab,Amritsar,heavy rains & floods,punjab,amritsar,True
+2023-07-05,11-07-2023 00:00,Punjab,Jalandhar,heavy rains & floods,punjab,jalandhar,True
+2023-07-05,11-07-2023 00:00,Punjab,Tarn Taran,heavy rains & floods,punjab,tarn taran,False
+2023-07-05,11-07-2023 00:00,Punjab,Rupnagar,heavy rains & floods,punjab,rupnagar,True
+2023-07-05,11-07-2023 00:00,Punjab,Shahid Bhagat Singh Nagar,heavy rains & floods,punjab,shahid bhagat singh nagar,False
+2023-07-05,11-07-2023 00:00,Punjab,Fazilka,heavy rains & floods,punjab,fazilka,False
+2023-07-05,11-07-2023 00:00,Punjab,Moga,heavy rains & floods,punjab,moga,True
+2023-07-05,11-07-2023 00:00,Punjab,Ludhiana,heavy rains & floods,punjab,ludhiana,True
+2023-07-05,11-07-2023 00:00,Punjab,S.A.S Nagar*,heavy rains & floods,punjab,s a s nagar,False
+2023-07-05,11-07-2023 00:00,Punjab,Faridkot,heavy rains & floods,punjab,faridkot,True
+2023-07-05,11-07-2023 00:00,Punjab,Fatehgarh Sahib,heavy rains & floods,punjab,fatehgarh sahib,True
+2023-07-05,11-07-2023 00:00,Punjab,Sri Sri Muktsar Sahib Sahib,heavy rains & floods,punjab,sri sri muktsar sahib sahib,False
+2023-07-05,11-07-2023 00:00,Punjab,Sangrur,heavy rains & floods,punjab,sangrur,True
+2023-07-05,11-07-2023 00:00,Punjab,Barnala,heavy rains & floods,punjab,barnala,False
+2023-07-05,11-07-2023 00:00,Punjab,Bathinda,heavy rains & floods,punjab,bathinda,True
+2023-07-05,11-07-2023 00:00,Punjab,Patiala,heavy rains & floods,punjab,patiala,True
+2023-07-05,11-07-2023 00:00,Punjab,Mansa,heavy rains & floods,punjab,mansa,True
+2023-07-05,11-07-2023 00:00,Punjab,Ferozepur,heavy rains & floods,punjab,ferozepur,False
+2023-07-05,11-07-2023 00:00,Punjab,Pathankot,heavy rains & floods,punjab,pathankot,False
+2023-07-05,11-07-2023 00:00,Punjab,Kapurthala,heavy rains & floods,punjab,kapurthala,True
+2023-07-05,11-07-2023 00:00,Punjab,Amritsar,heavy rains & floods,punjab,amritsar,True
+2023-07-05,11-07-2023 00:00,Punjab,Bathinda,heavy rains & floods,punjab,bathinda,True
+2023-07-05,11-07-2023 00:00,Punjab,Fatehgarh Sahib,heavy rains & floods,punjab,fatehgarh sahib,True
+2023-07-05,11-07-2023 00:00,Punjab,Ferozepur,heavy rains & floods,punjab,ferozepur,False
+2023-07-05,11-07-2023 00:00,Punjab,Hoshiarpur,heavy rains & floods,punjab,hoshiarpur,True
+2023-07-05,11-07-2023 00:00,Punjab,Kapurthala,heavy rains & floods,punjab,kapurthala,True
+2023-07-05,11-07-2023 00:00,Punjab,S.A.S Nagar,heavy rains & floods,punjab,s a s nagar,False
+2023-07-05,11-07-2023 00:00,Punjab,Patiala,heavy rains & floods,punjab,patiala,True
+2023-07-05,11-07-2023 00:00,Punjab,Rupnagar,heavy rains & floods,punjab,rupnagar,True
+2023-06-18,18-06-2023 00:00,Rajasthan,Jodhpur,heavy rains & flood,rajasthan,jodhpur,True
+2023-06-18,18-06-2023 00:00,Rajasthan,Rajsamand,heavy rains & flood,rajasthan,rajsamand,True
+2023-06-19,19-06-2023 00:00,Rajasthan,Ajmer,heavy rains & flood,rajasthan,ajmer,True
+2023-06-19,19-06-2023 00:00,Rajasthan,Dholpur,heavy rains & flood,rajasthan,dholpur,False
+2023-06-19,19-06-2023 00:00,Rajasthan,Jodhpur,heavy rains & flood,rajasthan,jodhpur,True
+2023-06-19,19-06-2023 00:00,Rajasthan,Rajsamand,heavy rains & flood,rajasthan,rajsamand,True
+2023-06-20,20-06-2023 00:00,Rajasthan,Jaloree,heavy rains & flood,rajasthan,jaloree,False
+2023-06-21,21-06-2023 00:00,Rajasthan,Jaloree,heavy rains & flood,rajasthan,jaloree,False
+2023-06-21,21-06-2023 00:00,Rajasthan,Pali,heavy rains & flood,rajasthan,pali,True
+2023-07-09,09-07-2023 00:00,Rajasthan,Ajmer,heavy rains & floods,rajasthan,ajmer,True
+2023-07-09,09-07-2023 00:00,Rajasthan,Jaipur,heavy rains & floods,rajasthan,jaipur,True
+2023-07-09,09-07-2023 00:00,Rajasthan,Nagaur,heavy rains & floods,rajasthan,nagaur,True
+2023-07-09,09-07-2023 00:00,Rajasthan,Sawai Madhopur,heavy rains & floods,rajasthan,sawai madhopur,True
+2023-07-09,09-07-2023 00:00,Rajasthan,Tonk,heavy rains & floods,rajasthan,tonk,True
+2023-07-10,10-07-2023 00:00,Rajasthan,Pratapgarh,heavy rains & flood (karmvachhni river),rajasthan,pratapgarh,False
+2023-06-17,17-06-2023 00:00,Sikkim,Mangan,"heavy rains, floods & landslides",sikkim,mangan,False
+2023-06-17,17-06-2023 00:00,Sikkim,Gyalshing,"heavy rains, floods & landslides",sikkim,gyalshing,False
+2023-07-22,29-07-2023 00:00,Telangana,Bhadradri Kothagudem,unprecedented heavy rains & floods,telangana,bhadradri kothagudem,False
+2023-07-22,29-07-2023 00:00,Telangana,Warangal,unprecedented heavy rains & floods,telangana,warangal,False
+2023-07-22,29-07-2023 00:00,Telangana,Warangal,unprecedented heavy rains & floods,telangana,warangal,False
+2023-07-22,29-07-2023 00:00,Telangana,Warangal,unprecedented heavy rains & floods,telangana,warangal,False
+2023-07-22,29-07-2023 00:00,Telangana,Warangal,unprecedented heavy rains & floods,telangana,warangal,False
+2023-07-22,29-07-2023 00:00,Telangana,Jayashankar Bhupalapally,unprecedented heavy rains & floods,telangana,jayashankar bhupalapally,False
+2023-07-22,29-07-2023 00:00,Telangana,Khammam,unprecedented heavy rains & floods,telangana,khammam,False
+2023-07-22,29-07-2023 00:00,Telangana,Mahabubabad,unprecedented heavy rains & floods,telangana,mahabubabad,False
+2023-07-22,29-07-2023 00:00,Telangana,Mahabubnagar,unprecedented heavy rains & floods,telangana,mahabubnagar,False
+2023-07-22,29-07-2023 00:00,Telangana,Mulugu,unprecedented heavy rains & floods,telangana,mulugu,False
+2023-07-07,09-07-2023 00:00,Uttar Pradesh,Budaun,heavy rains & floods,uttar pradesh,budaun,False
+2023-07-07,09-07-2023 00:00,Uttar Pradesh,Bareilly,heavy rains & floods,uttar pradesh,bareilly,True
+2023-07-07,09-07-2023 00:00,Uttar Pradesh,Sant Kabir Nagar,heavy rains & floods,uttar pradesh,sant kabir nagar,True
+2023-07-11,11-07-2023 00:00,Uttar Pradesh,Gautam Buddha Nagar,heavy rains & floods,uttar pradesh,gautam buddha nagar,True
+2023-07-12,15-07-2023 00:00,Uttar Pradesh,Bijnor,heavy rains & floods,uttar pradesh,bijnor,True
+2023-07-12,15-07-2023 00:00,Uttar Pradesh,Mathura,heavy rains & floods,uttar pradesh,mathura,True
+2023-07-12,15-07-2023 00:00,Uttar Pradesh,Rampur,heavy rains & floods,uttar pradesh,rampur,True
+2023-07-12,15-07-2023 00:00,Uttar Pradesh,& Parts of Uttar Pradesh,heavy rains & floods,uttar pradesh,parts of uttar pradesh,False
+2023-07-16,16-07-2023 00:00,Uttar Pradesh,Baghpat,heavy rains & floods,uttar pradesh,baghpat,True
+2023-07-16,16-07-2023 00:00,Uttar Pradesh,Balrampur,heavy rains & floods,uttar pradesh,balrampur,True
+2023-07-16,16-07-2023 00:00,Uttar Pradesh,Farrukhabad,heavy rains & floods,uttar pradesh,farrukhabad,True
+2023-07-16,16-07-2023 00:00,Uttar Pradesh,Kanpur nagar Nagar,heavy rains & floods,uttar pradesh,kanpur nagar nagar,False
+2023-07-19,19-07-2023 00:00,Uttar Pradesh,Amroha,heavy rains & floods,uttar pradesh,amroha,False
+2023-07-19,19-07-2023 00:00,Uttar Pradesh,Farrukhabad,heavy rains & floods,uttar pradesh,farrukhabad,True
+2023-07-16,16-07-2023 00:00,Uttarakhand,Chamoli,heavy rains & floods,uttarakhand,chamoli,False
+2023-07-16,16-07-2023 00:00,Uttarakhand,Rudra Prayag,heavy rains & floods,uttarakhand,rudra prayag,False
+2023-07-17,17-07-2023 00:00,Uttarakhand,Rudra Prayag,heavy rains & floods,uttarakhand,rudra prayag,False
+2023-07-13,13-07-2023 00:00,West Bengal,North westduar,heavy rains & floods     (kaljani river),west bengal,north westduar,False
+2023-07-21,21-07-2023 00:00,Dadar&Nagar Haveli,Dadra And Nagar Haveli,heavy rains & floods,dadar nagar haveli,dadra and nagar haveli,False
+2023-07-09,09-07-2023 00:00,Delhi,North,heavy rains & floods (yamuna river),delhi,north,False
+2023-07-09,09-07-2023 00:00,Delhi,North East,heavy rains & floods (yamuna river),delhi,north east,False
+2023-07-09,09-07-2023 00:00,Delhi,West,heavy rains & floods (yamuna river),delhi,west,False
+2023-05-23,23-05-2023 00:00,Jammu & Kashmir,Poonch,heavy rains & floods,jammu kashmir,poonch,False
+2023-07-09,09-07-2023 00:00,Jammu & Kashmir,Poonch,flash  floods,jammu kashmir,poonch,False
+2023-07-10,10-07-2023 00:00,Jammu & Kashmir,Ramban,heavy rains & floods,jammu kashmir,ramban,False
+2023-07-15,15-07-2023 00:00,Jammu & Kashmir,Kathua,flash  floods,jammu kashmir,kathua,False
+2023-07-15,15-07-2023 00:00,Jammu & Kashmir,Poonch,flash  floods,jammu kashmir,poonch,False
+2023-07-23,23-07-2023 00:00,Jammu & Kashmir,Kupwara,heavy rains & flash  floods,jammu kashmir,kupwara,False
+2023-08-18,19-08-2023 00:00,Jammu & Kashmir,Kathua,"heavy rains, flash floods landslide",jammu kashmir,kathua,False
+2023-08-26,26-08-2023 00:00,Uttarakhand,Chamoli,heavy rains & floods,uttarakhand,chamoli,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Amethi,heavy rains & floods,uttar pradesh,amethi,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,,heavy rains & floods,uttar pradesh,,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Budaun,heavy rains & floods,uttar pradesh,budaun,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Deoria,heavy rains & floods,uttar pradesh,deoria,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Hardoi,heavy rains & floods,uttar pradesh,hardoi,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Jalaun,heavy rains & floods,uttar pradesh,jalaun,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Kanpur nagar,heavy rains & floods,uttar pradesh,kanpur nagar,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Kannauj,heavy rains & floods,uttar pradesh,kannauj,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Mirzapur,heavy rains & floods,uttar pradesh,mirzapur,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Muzaffarnagar,heavy rains & floods,uttar pradesh,muzaffarnagar,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Prayagraj,heavy rains & floods,uttar pradesh,prayagraj,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Pratapgarh,heavy rains & floods,uttar pradesh,pratapgarh,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Rampur,heavy rains & floods,uttar pradesh,rampur,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Sambhal,heavy rains & floods,uttar pradesh,sambhal,False
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Sitapur,heavy rains & floods,uttar pradesh,sitapur,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Sultanpur,heavy rains & floods,uttar pradesh,sultanpur,True
+2023-09-10,11-09-2023 00:00,Uttar Pradesh,Unnao,heavy rains & floods,uttar pradesh,unnao,True

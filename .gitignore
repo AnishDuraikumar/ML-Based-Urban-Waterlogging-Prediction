@@ -1,0 +1,22 @@
+# Large raw rainfall dataset
+rainfall_2023.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Temporary and build files
+.dist/
+*.log
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
